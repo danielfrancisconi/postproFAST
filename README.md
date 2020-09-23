@@ -1,2 +1,2 @@
 # postproFAST
-Matlab tool to post process data from FASTv8
+Matlab tool for post processing FASTv8 data
